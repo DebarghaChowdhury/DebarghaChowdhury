@@ -1,5 +1,11 @@
 # 💫 About Me:
-Applied machine learning models, including Random Forest, and Logistic Regression, obtaining an<br>accuracy of 92%, for credit card fraud detection, which enhances the business's ability to<br>efficiently classify fraudulent transactions and reduce financial losses by proactively<br>identifying potential fraud cases.
+I am a data-driven professional with hands-on experience in machine learning, time series forecasting, big data analytics, and applied cybersecurity. My work focuses on building practical, end-to-end solutions that transform raw data into actionable insights for business and security decision-making.
+
+I have implemented stock price and volume forecasting models using regression techniques and advanced time-series methods such as ARIMA, enabling data-backed investment and resource management decisions. In the cybersecurity domain, I have performed intrusion detection analysis using PySpark, applying machine learning models including Random Forest, Logistic Regression, Decision Trees, and K-Means, achieving ~90% accuracy to identify malicious network activity and strengthen security operations.
+
+Additionally, I have developed credit card fraud detection systems, leveraging ensemble and statistical learning techniques to achieve 92% accuracy, helping organizations proactively identify fraudulent transactions and minimize financial losses. I also enjoy building interactive, user-friendly data applications, such as Streamlit-based dashboards that combine EDA, machine learning model comparison, and visualization using Plotly, making complex analytics accessible to stakeholders.
+
+My GitHub showcases projects across machine learning, big data, fraud detection, time-series analysis, and data visualization, with a strong emphasis on real-world impact, model performance, and clean, reproducible workflows. I am passionate about continuous learning and applying data science to solve meaningful business and security challenges.
 
 
 ## 🌐 Socials:
